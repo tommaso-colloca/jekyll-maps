@@ -9,3 +9,5 @@ github_username:  svmatthews
 
 # Build settings
 markdown: kramdown
+
+theme: jekyll-theme-cayman
